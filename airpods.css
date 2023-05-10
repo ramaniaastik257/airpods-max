@@ -1,0 +1,413 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Raleway:wght@600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Raleway", sans-serif;
+  color: #000000;
+}
+.airpods-max-text {
+  margin-top: 230px;
+  text-align: center;
+}
+.airpods-max-text-1 {
+  color: #2f2f2f;
+  font-size: 200px;
+}
+.airpods-max-image-1 {
+  position: absolute;
+  background-image: url(./image/1.png);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 700px;
+  height: 800px;
+  margin-left: 350px;
+  margin-top: -465px;
+}
+.airpods-max-text-2 {
+  margin-top: 400px;
+  text-align: center;
+  font-size: 30px;
+  color: #2f2f2f;
+}
+.airpods-max-video {
+  margin-top: 100px;
+}
+.video-1 {
+  width: 100%;
+  height: 100%;
+}
+.radically-original-composition-text {
+  margin-left: 200px;
+  margin-top: 100px;
+}
+.radically-original-composition-text-1 {
+  font-size: 100px;
+  color: #1d1d1d;
+}
+.radically-original-composition-text-2 {
+  margin-left: 600px;
+  margin-top: 40px;
+  line-height: 28px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.radically-original-composition-image {
+  background-image: url(./image/2.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 933px;
+  height: 690px;
+  margin-top: 150px;
+}
+.radically-original-composition-text-3 {
+  margin-left: -200px;
+  text-align: center;
+  margin-top: 50px;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 25px;
+}
+.radically-original-composition-image-1 {
+  display: inline-block;
+  background-image: url(./image/3.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 839px;
+  height: 1321px;
+}
+.radically-original-composition-all-image {
+  margin-top: 100px;
+}
+
+.radically-original-composition-image-2 {
+  position: absolute;
+  display: inline-block;
+  background-image: url(./image/4.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 460px;
+  height: 610px;
+  margin-left: 30px;
+}
+.radically-original-composition-image-3 {
+  position: absolute;
+  display: inline-block;
+  background-image: url(./image/5.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 460px;
+  height: 610px;
+  margin-left: 20px;
+  margin-top: 730px;
+}
+.AirPods-Max-Digital-Crown {
+  margin-top: 250px;
+}
+.AirPods-Max-Digital-Crown-image {
+  background-image: url(./image/6.jpg);
+  background-position: 50% 0%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 700px;
+  padding: 0.1px;
+}
+.AirPods-Max-Digital-Crown-text {
+  text-align: center;
+  margin-top: 550px;
+  font-size: 19px;
+  font-weight: bold;
+  color: #d1e8fd;
+}
+.Five-colours-text {
+  margin-top: 100px;
+  margin-left: 150px;
+}
+.Five-colours-text-1 {
+  font-size: 68px;
+  font-weight: bold;
+  color: #1d1d1f;
+}
+.Five-colours-image {
+  margin-top: 50px;
+}
+.Five-colours-img-1 {
+  display: inline-block;
+  background-image: url(./image/7.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 839px;
+  height: 691px;
+}
+.Five-colours-img-2 {
+  display: inline-block;
+  background-image: url(./image/8.jpg);
+  background-position: 50% 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 310px;
+  height: 526px;
+  position: relative;
+  bottom: 103px;
+}
+.Sounds-bg {
+  background-color: black;
+  width: 100%;
+  height: 4880px;
+  margin-top: 70px;
+  padding: 0.1px;
+}
+.Sounds-text {
+  margin-top: 100px;
+}
+.Sounds-text-1 {
+  color: white;
+  font-size: 90px;
+  margin-left: 100px;
+  font-weight: bold;
+}
+.Sounds-text-2 {
+  color: white;
+  margin-left: 800px;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 26px;
+}
+.Sounds-img-1 {
+  background-image: url(./image/9.jpg);
+  background-position: 100 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 777px;
+  height: 966px;
+}
+.Sounds-no-2-text {
+  margin-top: 150px;
+  margin-left: 250px;
+}
+.Sounds-no-2-text-1 {
+  color: white;
+  color: white;
+  font-size: 70px;
+  font-weight: bold;
+}
+.Sounds-no-2-text-2 {
+  color: #6e6e73;
+  margin-top: 40px;
+  font-size: 20 px;
+  font-weight: bold;
+  line-height: 26px;
+}
+.Sounds-no-3-image-1 {
+  margin-top: 100px;
+  margin-left: 50px;
+}
+.Sounds-no-3-img-1:hover {
+  width: 820px;
+  height: 1280px;
+  filter: brightness(80%);
+}
+.Sounds-no-3-img-1 {
+  display: inline-block;
+  background-image: url(./image/10.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 839px;
+  height: 1321px;
+  transition: 0.8s;
+}
+.Sounds-no-3-img-2:hover {
+  width: 430px;
+  height: 560px;
+  filter: brightness(80%);
+}
+.Sounds-no-3-img-2 {
+  display: inline-block;
+  position: absolute;
+  background-image: url(./image/11.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 460px;
+  height: 610px;
+  margin-left: 30px;
+  transition: 0.8s;
+}
+.Sounds-no-3-text-1 {
+  color: #6e6e73;
+}
+.Sounds-no-3-text {
+  display: inline-block;
+  position: absolute;
+  margin-top: 650px;
+  margin-left: 30px;
+  font-size: 19px;
+  font-weight: bold;
+}
+.Sounds-no-3-text-2 {
+  color: #a2a2a7;
+  margin-top: 25px;
+}
+.Sounds-no-4-text {
+  margin-top: 48px;
+  margin-left: 65px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.sounds-no-4-text-1 {
+  color: #a2a2a7;
+}
+.sounds-no-5-image {
+  margin-top: 200px;
+  margin-left: 100px;
+}
+.sounds-no-5-img-1 {
+  background-image: url(./image/13.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 1105px;
+  padding: 0.1px;
+  height: 1061px;
+}
+.sounds-no-5-img-2 {
+  background-image: url(./image/14.png);
+  /* background-position: 20% 0; */
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 1000px;
+  height: 384px;
+  margin-left: 127px;
+  margin-top: -125px;
+}
+.sounds-no-5-img-3 {
+  background-image: url(./image/15.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 988px;
+  height: 634px;
+  margin-top: 86px;
+  margin-left: 65px;
+  filter: brightness(40%);
+}
+.sounds-no-5-text {
+  margin-top: -352px;
+  margin-left: 100px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.sounds-no-5-text-1 {
+  color: #a2a2a7;
+}
+.sounds-no-5-text-2 {
+  color: #6e6e73;
+  margin-top: 22px;
+}
+.Elaborately-simple-no-1-text {
+  margin-top: 150px;
+  margin-left: 150px;
+}
+.Elaborately-simple-no-1-text-1 {
+  font-size: 135px;
+  font-weight: bold;
+}
+.Elaborately-simple-no-1-text-2 {
+  margin-left: 617px;
+  font-size: 22px;
+  font-weight: bold;
+  line-height: 29px;
+  margin-top: 35px;
+}
+.Elaborately-simple-no-2-image {
+  margin-top: 80px;
+  display: inline-block;
+}
+.Elaborately-simple-no-2-img-1 {
+  display: inline-block;
+  background-image: url(./image/18.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 999px;
+  height: 900px;
+  padding: 0.1px;
+}
+.Elaborately-simple-no-2-text-1 {
+  display: inline-block;
+  margin-top: 491px;
+  margin-left: 995px;
+  width: 256px;
+  font-size: 21px;
+  font-weight: bold;
+  color: #1d1d1f;
+}
+.Smart-Case-no-1-text {
+  margin-top: 100px;
+  text-align: center;
+}
+.Smart-Case-no-1-text-1 {
+  text-align: center;
+  font-size: 75px;
+}
+.Smart-Case-no-1-text-2 {
+  margin-top: 45px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #686868;
+}
+.Smart-Case-no-2-img {
+  background-image: url(./image/19.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 958px;
+  height: 870px;
+  margin-left: 241px;
+  margin-top: 100px;
+}
+.Smart-Case-no-3-text {
+  margin-top: 200px;
+}
+.Smart-Case-no-3-text-1 {
+  text-align: center;
+  font-size: 80px;
+}
+.Smart-Case-no-3-text-2 {
+  text-align: center;
+  font-size: 550px;
+  font-weight: bold;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+}
+.Smart-Case-no-3-text-3 {
+  font-size: 21px;
+  text-align: center;
+  font-weight: bold;
+  color: #3a3a3a;
+}
+.Smart-Case-bg {
+  background-color: #3a3a3a;
+  width: 100%;
+  height: 200px;
+  margin-top: 50px;
+  padding: 0.1px;
+}
+.Smart-Case-bg-text {
+  text-align: center;
+  margin-top: 100px;
+  font-size: 15px;
+}
+.Smart-Case-bg-text-1 {
+  color: rgb(0, 12, 144);
+}
+.Smart-Case-bg-text-2 {
+  color: rgb(0, 12, 144);
+}
